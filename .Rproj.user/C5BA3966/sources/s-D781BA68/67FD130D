@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552007928599.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "172361953",
+    "id" : "67FD130D",
+    "lastKnownWriteTime" : 1552008046,
+    "last_content_update" : 1552008046414,
+    "path" : "C:/Users/angdy/Desktop/meowmeow/meow.R",
+    "project_path" : "meow.R",
+    "properties" : {
+        "cursorPosition" : "3,19",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
